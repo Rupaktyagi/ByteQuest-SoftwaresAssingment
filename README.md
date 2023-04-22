@@ -1,10 +1,12 @@
 # ByteQuest-SoftwaresAssingment
- - This application contain all end to end points of Product ehich is used in online shoping application 
+ - This application contain all end to end points of Product which is used in online shopping application.
  
 # Functionalities
--   add Product to database
+-   Add Product to database
 -   See all products
 -   See Product by giving productId
+-   Delete Product
+-   Update Product
 
 
 
